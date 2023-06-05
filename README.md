@@ -1,4 +1,4 @@
-# persistent-digital-subscriptions
+# Persistent Digital Subscriptions
 For making digital products available even after subscription status is changed
 
 ## Assumes ACF
